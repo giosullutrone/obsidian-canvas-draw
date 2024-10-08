@@ -1,0 +1,11 @@
+{
+	"id": "draw",
+	"name": "draw",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "draw.",
+	"author": "giosullutrone",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
